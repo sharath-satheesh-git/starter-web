@@ -1,10 +1,10 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is a simple website project for showing how to use GIT and GITHUB together.
 
 ## Introduction
 
-Sample website with plenty of files for demos
+Example to show different parts of the GIT Repository and various commands used.
 
 ## Purpose
 
